@@ -9,4 +9,6 @@ SETUP LAB
 - instalar ts-node-dev (em dev)
 - adicionar script no package.json
     * "dev:server": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/index.ts"
-- mudar a rota para colocar em build
+- mudar o ficheiro tsconfig.json
+- add tsconfig-paths (em dev, apenas se usar paths no tsconfig)
+- adiciona a flag "-r tsconfig-paths/register" no comando package.json

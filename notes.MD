@@ -15,3 +15,4 @@ SETUP LAB
 
 - adiciona eslint (dev) ()
 - add Jest
+- add babel

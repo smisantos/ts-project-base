@@ -12,3 +12,6 @@ SETUP LAB
 - mudar o ficheiro tsconfig.json
 - add tsconfig-paths (em dev, apenas se usar paths no tsconfig)
 - adiciona a flag "-r tsconfig-paths/register" no comando package.json
+
+- adiciona eslint (dev) ()
+- add Jest
